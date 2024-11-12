@@ -1,1 +1,3 @@
-"# Elias_VG2_Terminoppgave" 
+"# Elias_VG2_Terminoppgave
+
+Erte bærte truse.
